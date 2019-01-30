@@ -1,5 +1,5 @@
 
-##[Unite Gallery](http://unitegallery.net) - Responsive jQuery Gallery Plugin
+## [Unite Gallery](http://unitegallery.net) - Responsive jQuery Gallery Plugin
 
 Product Link: [unitegallery.net](http://unitegallery.net)
 
