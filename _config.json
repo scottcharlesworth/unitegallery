@@ -1,0 +1,33 @@
+{
+  "asset_source_dir": "source/unitegallery/",
+
+  "js":{
+    "scripts": [
+      "source/unitegallery/js/ug-functions.js",
+      "source/unitegallery/js/ug-common-libraries.js",
+      "source/unitegallery/js/ug-thumbsgeneral.js",
+      "source/unitegallery/js/ug-thumbsstrip.js",
+      "source/unitegallery/js/ug-touchthumbs.js",
+      "source/unitegallery/js/ug-panelsbase.js",
+      "source/unitegallery/js/ug-strippanel.js",
+      "source/unitegallery/js/ug-gridpanel.js",
+      "source/unitegallery/js/ug-thumbsgrid.js",
+      "source/unitegallery/js/ug-tiles.js",
+      "source/unitegallery/js/ug-tiledesign.js",
+      "source/unitegallery/js/ug-avia.js",
+      "source/unitegallery/js/ug-slider.js",
+      "source/unitegallery/js/ug-sliderassets.js",
+      "source/unitegallery/js/ug-touchslider.js",
+      "source/unitegallery/js/ug-zoomslider.js",
+      "source/unitegallery/js/ug-video.js",
+      "source/unitegallery/js/ug-gallery.js",
+      "source/unitegallery/js/ug-lightbox.js",
+      "source/unitegallery/js/ug-carousel.js",
+      "source/unitegallery/js/ug-tabs.js",
+      "source/unitegallery/js/ug-api.js",
+      "source/unitegallery/js/ug-loadmore.js"
+    ]
+  },
+
+  "title": "Unite Gallery"
+}
