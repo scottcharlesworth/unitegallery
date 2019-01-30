@@ -1,6 +1,8 @@
-// Unite Gallery, Version: 1.7.45, released 27 Feb 2017 
-
-
+/**
+ * Unite Gallery v1.7.45
+ * Copyright 2014-2019 
+ * Licensed under: MIT
+ */
 
 /**
  * write something to debug line
