@@ -113,6 +113,6 @@ module.exports = function(grunt) {
     });
 
     grunt.registerTask('dist', ['concat:dist', 'copy:theme_js', 'copy:assets', 'uglify:dist', 'cssmin:dist']);
-    grunt.registerTask('update_package', ['copy:to_package']);
+    grunt.registerTask('update_package', ['clean:package_ug', 'copy:to_package']);
     grunt.registerTask('update_jquery', ['copy:jquery']);
 };
